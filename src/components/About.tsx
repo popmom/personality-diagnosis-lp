@@ -20,7 +20,7 @@ export default function About() {
         <h2 className="in-view mt-8 max-w-4xl font-display text-[clamp(1.75rem,4vw,3rem)] font-medium leading-[1.4] tracking-[-0.01em] text-paper">
           気負わず、肩の力を抜いたまま。
           <br />
-          3分で、静かに終わります。
+          15分で、静かに終わります。
         </h2>
 
         <dl className="mt-16 grid grid-cols-2 gap-x-6 gap-y-10 md:mt-24 md:grid-cols-4 md:gap-x-10">
