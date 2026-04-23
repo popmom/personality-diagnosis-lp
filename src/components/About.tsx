@@ -1,6 +1,6 @@
 const specs = [
-  { label: "所要時間", value: "約3分", unit: "" },
-  { label: "質問数", value: "6", unit: "問" },
+  { label: "所要時間", value: "約15分", unit: "" },
+  { label: "質問数", value: "19", unit: "問" },
   { label: "費用", value: "完全無料", unit: "" },
   { label: "形式", value: "直感で選ぶだけ", unit: "" },
 ];
