@@ -11,7 +11,7 @@ export default function Hero() {
           <span>個性レベルアップ診断</span>
         </div>
         <div className="hidden items-center gap-3 text-[11px] tracking-[0.32em] uppercase text-ink-muted md:flex">
-          <span>free · 3min · 6q</span>
+          <span>free · 15min · 19q</span>
         </div>
       </div>
 
@@ -62,7 +62,7 @@ export default function Hero() {
             <br />
             誰かを褒めるのは得意なのに、自分のことになると途端にわからなくなる。
             <br />
-            ——そんなあなたへ、6つの静かな問いを。
+            ——そんなあなたへ、19の静かな問いを。
           </p>
 
           {/* CTA */}
@@ -72,7 +72,7 @@ export default function Hero() {
           >
             <CTAButton location="hero">無料で診断を受ける</CTAButton>
             <p className="text-xs tracking-[0.24em] text-ink-muted">
-              所要時間 約3分　·　全6問　·　完全無料
+              所要時間 約15分　·　全19問　·　完全無料
             </p>
           </div>
         </div>
