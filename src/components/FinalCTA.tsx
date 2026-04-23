@@ -25,7 +25,7 @@ export default function FinalCTA() {
         <div className="in-view mt-14 flex flex-col items-center gap-5">
           <CTAButton location="final">無料で診断を受ける</CTAButton>
           <p className="text-xs tracking-[0.24em] text-ink-muted">
-            所要時間 約3分　·　全6問　·　完全無料
+            所要時間 約15分　·　全19問　·　完全無料
           </p>
         </div>
       </div>
